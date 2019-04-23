@@ -1,0 +1,25 @@
+$PBExportHeader$ap_ap.srj
+$PBExportComments$Export By Shu<KenShu@163.net>
+EXE:D:\SouceCode\PB80\ap_ap\ap_ap.exe,,0,1
+CMP:0,0,0,2,0,0
+PBD:D:\SouceCode\PB80\ap_ap\ap_ap.pbl,D:\SouceCode\PB80\ap_ap\ap_ap.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_dd.pbl,D:\SouceCode\PB80\ap_ap\ap_dd.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_dw.pbl,D:\SouceCode\PB80\ap_ap\ap_dw.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_dw2.pbl,D:\SouceCode\PB80\ap_ap\ap_dw2.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_dw3.pbl,D:\SouceCode\PB80\ap_ap\ap_dw3.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_st.pbl,D:\SouceCode\PB80\ap_ap\ap_st.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_uf.pbl,D:\SouceCode\PB80\ap_ap\ap_uf.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_wn.pbl,,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_wn2.pbl,D:\SouceCode\PB80\ap_ap\ap_wn2.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_wn3.pbl,,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_nc.pbl,D:\SouceCode\PB80\ap_ap\ap_nc.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\ap_nps.pbl,D:\SouceCode\PB80\ap_ap\ap_nps.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_dd.pbl,D:\SouceCode\PB80\ap_ap\xx_dd.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_dw.pbl,D:\SouceCode\PB80\ap_ap\xx_dw.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_mn.pbl,D:\SouceCode\PB80\ap_ap\xx_mn.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_nov.pbl,,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_xls.pbl,D:\SouceCode\PB80\ap_ap\xx_xls.pbr,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_str.pbl,,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_uf.pbl,,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_uo.pbl,,1
+PBD:D:\SouceCode\PB80\ap_ap\xx_wn.pbl,,1

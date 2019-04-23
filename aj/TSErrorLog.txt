@@ -1,0 +1,938 @@
+*****************
+Telephony Server Error Occurred on 2012-11-12 17:37:14
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6118, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1003
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2012-11-12 17:37:18
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: AgentLogin(AgentDN=6118, AgentID=510666, AgentPassword=); InvokeID=1003
+Telephony Operation 3: AgentLogin(AgentDN=6118, AgentID=510666, AgentPassword=); InvokeID=1008
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1008
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2012-11-12 17:53:24
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6118, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1003
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2012-11-14 14:13:31
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6088, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1003
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2012-11-14 14:13:37
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: AgentLogin(AgentDN=6088, AgentID=510666, AgentPassword=); InvokeID=1003
+Telephony Operation 3: AgentLogin(AgentDN=6088, AgentID=510666, AgentPassword=); InvokeID=1008
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 33
+TS Error InvokeID: 1008
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的设备目前正繁忙。
+当业务代表在一个呼叫上时该业务代表不能完成登录。首先清除这呼叫。 
+
+
+*****************
+Telephony Server Error Occurred on 2012-11-14 14:18:00
+Telephony Operation 1: AgentSetState(ACW AgentDN=6088, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6088, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6088, 913870960223); InvokeID=1027
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1027
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2013-03-13 10:04:13
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6093, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 78
+TS Error InvokeID: 1003
+TS Error Description:  An unexpected error occurred while trying to log the agent in.
+Because a request time-out rejection error (78) is an unexpected response for this action, there is no further information available. Please contact your Definity/MultiVantage/Avaya CM server administrator. 
+
+
+*****************
+Telephony Server Error Occurred on 2013-03-13 10:04:13
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6093, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 78
+TS Error InvokeID: 1006
+TS Error Description:  An unexpected error occurred while trying to take a snapshot of the device.
+Because a request time-out rejection error (78) is an unexpected response for this action, there is no further information available. Please contact your Definity/MultiVantage/Avaya CM server administrator. 
+
+
+*****************
+Telephony Server Error Occurred on 2013-03-13 10:04:13
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6093, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 78
+TS Error InvokeID: 1007
+TS Error Description:  An unexpected error occurred while trying to retrieve extension information.
+Because a request time-out rejection error (78) is an unexpected response for this action, there is no further information available. Please contact your Definity/MultiVantage/Avaya CM server administrator. 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 11:38:26
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:46:03
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1002
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:46:03
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1003
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:46:22
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1004
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:46:42
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1005
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:47:02
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1006
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:47:23
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1007
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:47:43
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1008
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:48:03
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1009
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/01/23 12:48:24
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=7192, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: ACS Error
+TS Error Level: Major
+TS Error Code: 35
+TS Error InvokeID: 1010
+TS Error Description:  在对Avaya Computer Telephony服务器的请求所指定的设备管理为由不同的Avaya Computer Telephony服务器所支持。
+为得到进一步的帮助请与你的Definity/MultiVantage/Avaya CM系统管理员联系。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/04/02 16:21:57
+Telephony Operation 1: AgentSetState(ACW AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6367, 988110022); InvokeID=1013
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1013
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/05/14 13:52:18
+Telephony Operation 1: AgentSetState(ACW AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6367, 9013563529656); InvokeID=1013
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1013
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/05/14 13:58:54
+Telephony Operation 1: AgentSetState(ACW AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6367, 9013563529656); InvokeID=1011
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1011
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2014/11/18 21:23:52
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/11/18 21:36:50
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/11/18 21:47:21
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/11/18 22:48:58
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/11/19 02:56:43
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/11/19 02:56:51
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/12/02 16:56:05
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/12/02 16:59:02
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: AgentLogin(AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=1
+Telephony Operation 3: AgentLogin(AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=1
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/12/02 17:00:43
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: AgentLogin(AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=1
+Telephony Operation 3: AgentLogin(AgentDN=6367, AgentID=510666, AgentPassword=); InvokeID=1
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/12/02 17:22:13
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2014/12/02 17:26:00
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 11:10:50
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 11:16:17
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 11:17:02
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 11:24:11
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 11:24:40
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 11:30:05
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 11:33:44
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 11:34:50
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: ACS Error
+TS Error Level: Fatal
+TS Error Code: -5
+TS Error InvokeID: 1000
+TS Error Description: 
+
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 12:03:27
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1003
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 12:03:29
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1003
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1007
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1007
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2016/05/13 12:03:34
+Telephony Operation 1: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1003
+Telephony Operation 2: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1007
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1008
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1008
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2017/9/15 15:14:54
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: ; InvokeID=
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1009
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:06:21
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=580123, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 12
+TS Error InvokeID: 1003
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的设备在Definity/MultiVantage/Avaya CM上是一个无效的分机。
+检查这设备是有效的Definity/MultiVantage/Avaya CM分机。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:07:16
+Telephony Operation 1: CallDial (6225, 9051088712820); InvokeID=1015
+Telephony Operation 2: AgentSetState(AUX AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1017
+Telephony Operation 3: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1018
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1015
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:07:23
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 9051088712820); InvokeID=1030
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1022
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:07:28
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 9051088712820); InvokeID=1034
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1026
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:07:33
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 9051088712820); InvokeID=1034
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1030
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:07:39
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 9051088712820); InvokeID=1034
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1034
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:08:48
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=580100, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 22
+TS Error InvokeID: 1003
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的设备是在无效状态并不能完成登录。
+检查所指定的设备不忙于通话而且业务代表没有登录到非-EAS组群的最大数(4)。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:09:33
+Telephony Operation 1: AgentLogin(AgentDN=6225, AgentID=580100, AgentPassword=); InvokeID=1003
+Telephony Operation 2: CallDial (6225, 9051088712820); InvokeID=1009
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=580100, AgentPassword=); InvokeID=1010
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 22
+TS Error InvokeID: 1010
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的设备是在无效状态并不能完成登录。
+检查所指定的设备不忙于通话而且业务代表没有登录到非-EAS组群的最大数(4)。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/18 11:09:34
+Telephony Operation 1: CallDial (6225, 9051088712820); InvokeID=1009
+Telephony Operation 2: AgentLogin(AgentDN=6225, AgentID=580100, AgentPassword=); InvokeID=1010
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=580100, AgentPassword=); InvokeID=14
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1009
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/31 11:10:32
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1003
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/31 11:10:35
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1003
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1008
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1008
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的业务代表已经登录。
+检查所指定的业务代表标识符是正确的或者这业务代表标识符从当前设备退出登录。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/31 11:11:08
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1015
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1015
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/31 11:13:22
+Telephony Operation 1: ; InvokeID=
+Telephony Operation 2: ; InvokeID=
+Telephony Operation 3: AgentLogin(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=1003
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 33
+TS Error InvokeID: 1003
+TS Error Description: 当试图让业务代表登录时产生了一个错误。 所指定的设备目前正繁忙。
+当业务代表在一个呼叫上时该业务代表不能完成登录。首先清除这呼叫。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/5/31 11:17:26
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1012
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1012
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/8/1 11:12:35
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1015
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1015
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/8/1 11:12:40
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1024
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1021
+TS Error Description: 当试图改变业务代表状态时产生了一个错误。 产生了一个未知的普通运行失败。
+请与你的Definity/MultiVantage/Avaya CM管理员联系并报告这个错误。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/8/1 11:12:47
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1032
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 78
+TS Error InvokeID: 1020
+TS Error Description:  An unexpected error occurred while trying to make the call.
+Because a request time-out rejection error (78) is an unexpected response for this action, there is no further information available. Please contact your Definity/MultiVantage/Avaya CM server administrator. 
+
+
+*****************
+Telephony Server Error Occurred on 2018/8/1 11:12:47
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1032
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1024
+TS Error Description:  An unexpected error occurred while trying to make the call.
+Because a generic operation error (1) is an unexpected response for this action, there is no further information available. Please contact your Definity/MultiVantage/Avaya CM server administrator. 
+
+
+*****************
+Telephony Server Error Occurred on 2018/8/1 11:12:47
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1032
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1028
+TS Error Description:  An unexpected error occurred while trying to make the call.
+Because a generic operation error (1) is an unexpected response for this action, there is no further information available. Please contact your Definity/MultiVantage/Avaya CM server administrator. 
+
+
+*****************
+Telephony Server Error Occurred on 2018/8/1 11:12:47
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1032
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 1
+TS Error InvokeID: 1032
+TS Error Description:  An unexpected error occurred while trying to make the call.
+Because a generic operation error (1) is an unexpected response for this action, there is no further information available. Please contact your Definity/MultiVantage/Avaya CM server administrator. 
+
+
+*****************
+Telephony Server Error Occurred on 2018/8/1 11:13:30
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 913870960223); InvokeID=1040
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1040
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
+*****************
+Telephony Server Error Occurred on 2018/8/1 11:42:12
+Telephony Operation 1: AgentSetState(ACW AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 2: QueryAgentState(AgentDN=6225, AgentID=510666, AgentPassword=); InvokeID=0
+Telephony Operation 3: CallDial (6225, 918170007399); InvokeID=1011
+
+TS Error Type: CSTA Error
+TS Error Level: Minor
+TS Error Code: 21
+TS Error InvokeID: 1011
+TS Error Description: 当试图呼叫时产生了一个错误。 将要发起呼叫的分机没有在提出请求的5秒钟内摘机，而且不能被强制摘机。
+如果呼叫的发话方是一个模拟设备，用户必须在提出要求的五秒钟内提起手柄。 
+
+
