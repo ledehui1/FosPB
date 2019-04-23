@@ -1,10 +1,12 @@
 Save Format v3.0(19990112)
 @begin Targets
- 0 "20170710AP\xb1\xb8\xb7\xdd\\ap_ap.pbt";
- 1 "ab\\ab_ap.pbt";
- 2 "ag\\ag_ap.pbt";
- 3 "aj\\aj_ap.pbt";
- 4 "al\\al_ap.pbt";
- 5 "am\\am_ap.pbt";
- 6 "zz\\zz_ap.pbt";
+ 0 "[PB8.0]COMMON\\ap_ap.pbt";
+ 1 "aj\\aj_ap.pbt";
+ 2 "al\\al_ap.pbt";
+ 3 "ag\\ag_ap.pbt";
+ 4 "am\\am_ap.pbt";
+ 5 "zz\\zz_ap.pbt";
+ 6 "ab\\ab_ap.pbt";
 @end;
+DefaultTarget "[PB8.0]COMMON\\ap_ap.pbt";
+DefaultRemoteTarget "[PB8.0]COMMON\\ap_ap.pbt";
